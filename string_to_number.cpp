@@ -1,5 +1,6 @@
 #include <string>
 #include <math.h>
+#include <iostream>
 
 using namespace std;
 
@@ -19,6 +20,6 @@ int string_to_number(const std::string &s)
 
 int main()
 {
-    string_to_number("-321405"); // should return -321405 numerically
+    std::cout << string_to_number("-321405") << std::endl; // should return -321405 numerically
     return 0;
 }
