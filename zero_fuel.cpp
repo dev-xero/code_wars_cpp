@@ -10,6 +10,6 @@ bool zero_fuel(uint32_t distance_to_pump, uint32_t mpg, uint32_t fuel_left)
 
 int main()
 {
-    std::cout << zero_fuel(50, 25, 2); // should return true
+    std::cout << zero_fuel(50, 25, 2) << std::endl; // should return true (1)
     return 0;
 }
