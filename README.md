@@ -10,5 +10,6 @@ Algorithms for solving various kata on code wars, written in c++.
 
 ### `21.12.23`
 - Clock: **~/clock.cpp**
+- Quarter of the year: **~/quarter_of.cpp**
 - How good are you?: **~/how_good_are_you_really.cpp**
 
