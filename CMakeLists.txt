@@ -8,6 +8,7 @@ add_executable(rock_paper_scissors 20.12.23/rock_paper_scissors.cpp)
 add_executable(grass_hopper_summation 20.12.23/grass_hopper_summation.cpp)
 
 add_executable(clock 21.12.23/clock.cpp)
+add_executable(sum_positives 21.12.23/sum_positives.cpp)
 add_executable(how_good_are_you_really 21.12.23/how_good_are_you_really.cpp)
 
 set(CMAKE_CXX_STANDARD 11)
